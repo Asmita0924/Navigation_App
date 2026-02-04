@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+}
+
+/* Header */
+.header {
+  background: #1e293b;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+.top-link {
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+  margin-top: 10px;
+}
+
+.btn {
+  margin: 5px;
+  padding: 8px 15px;
+  background: #3b82f6;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+}
+
+.btn:hover {
+  background: #2563eb;
+}
+
+/* Layout */
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+/* Card */
+.card {
+  background: white;
+  width: 400px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.designation {
+  color: gray;
+}
+
+/* Skills */
+.skills span {
+  display: inline-block;
+  background: #3b82f6;
+  color: white;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 8px;
+}
