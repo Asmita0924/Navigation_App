@@ -29,10 +29,9 @@ To implement navigation links in a Single Page Application (SPA) using React Rou
 - Home, About, Contact pages
 - Responsive Navbar UI
 - Smooth routing using Link component
-<img width="1913" height="598" alt="Screenshot 2026-02-03 215743" src="https://github.com/user-attachments/assets/bd08a747-d865-4cdf-86b8-4008ffd3c814" />
-<img width="1887" height="525" alt="Screenshot 2026-02-03 215754" src="https://github.com/user-attachments/assets/bb27ad77-b5fb-4530-b848-6de35596967f" />
-<img width="1909" height="544" alt="Screenshot 2026-02-03 215811" src="https://github.com/user-attachments/assets/afba83a6-d0ae-4b5d-b468-d8f60eaa2003" />
-
+<img width="1913" height="598" alt="Screenshot 2026-02-03 215743" src="https://github.com/user-attachments/assets/29a5f539-7def-4c78-ba4b-762d6ee7afb9" />
+<img width="1887" height="525" alt="Screenshot 2026-02-03 215754" src="https://github.com/user-attachments/assets/29dfbe53-997c-45ec-90c2-473733d02386" />
+<img width="1909" height="544" alt="Screenshot 2026-02-03 215811" src="https://github.com/user-attachments/assets/a4ddb898-71f7-481b-9398-29e307cf2132" />
 
 ## Project Structure
 src/
@@ -94,8 +93,9 @@ To create a multi-page Single Page Application (SPA) using client-side routing i
 - Modern responsive UI
 - Component-based architecture
   
-<img width="1909" height="947" alt="Screenshot 2026-02-03 225745" src="https://github.com/user-attachments/assets/be01503d-1f7a-421d-8632-53438311b06f" />
-<img width="1904" height="712" alt="Screenshot 2026-02-03 225800" src="https://github.com/user-attachments/assets/f6368b94-e869-40d8-9082-de408fff2833" />
+<img width="1909" height="947" alt="Screenshot 2026-02-03 225745" src="https://github.com/user-attachments/assets/513a42cd-a43e-4024-b5aa-0edcb06e2bd6" />
+<img width="1904" height="712" alt="Screenshot 2026-02-03 225800" src="https://github.com/user-attachments/assets/12d3aa6f-bcb3-4071-9de4-19291c0916be" />
+
 
 
 ## Project Structure
@@ -136,10 +136,10 @@ This project is a Simple Single Page Application (SPA) built using React and Rea
   - Projects
 - Dashboard page showing skills
 - Clean CSS styling
-- 
-<img width="1709" height="1000" alt="Screenshot 2026-02-04 100914" src="https://github.com/user-attachments/assets/4f437c38-0170-4c27-9e76-ef806d2ab9a4" />
 
-<img width="863" height="516" alt="Screenshot 2026-02-04 100924" src="https://github.com/user-attachments/assets/76837b2a-45bf-4f06-bbd9-e2b226a74fd7" />
+<img width="1709" height="1000" alt="Screenshot 2026-02-04 100914" src="https://github.com/user-attachments/assets/074ddb16-7ba4-4b37-b184-318d90a9ef3b" />
+
+<img width="863" height="516" alt="Screenshot 2026-02-04 100924" src="https://github.com/user-attachments/assets/8358ccd4-5149-435a-bac3-76f6c2f4a15e" />
 
 
 ## Technologies Used
